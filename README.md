@@ -1,5 +1,4 @@
-# CryEngine_VisualStudio_Templates
-Visual Studio Item templates for CryEngine
+# CryEngine VisualStudio Item Templates
 
 Download templates [here](https://github.com/TadeasKaba/CryEngine_VisualStudio_Templates/releases/tag/1.0)
 
